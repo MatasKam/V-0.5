@@ -1,4 +1,5 @@
 su vector:
+
 skirstymas i dvi grupes ir skaiciavimas truko: 0.0385341
 
 nekietu mokiniu irasymas i faila truko: 0.0024585
